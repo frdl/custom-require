@@ -1,0 +1,27 @@
+{
+  "name": "@frdl/custom-require",
+  "version": "0.0.2",
+  "description": "Modify the require functions and its resolvers.",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "git://github.com/frdl/custom-require.git",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "dependencies": {
+    "axios": "latest",
+    "path": "latest",
+    "colors": "latest",
+    "util": "latest",
+    "typescript": "latest",
+    "uuid": "latest",
+    "execSync": "latest",
+    "require-json": "latest",
+    "LiveScript": "latest",
+    "coffeescript": "latest",
+    "require-ini": "latest",
+    "require-csv": "latest",
+    "require-yaml": "latest"
+  },
+  "devDependencies": {}
+}
