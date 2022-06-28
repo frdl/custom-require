@@ -11,12 +11,11 @@
   "dependencies": {
     "axios": "latest",
     "path": "latest",
-    "colors": "latest",
     "util": "latest",
     "typescript": "latest",
     "uuid": "latest",
     "execSync": "latest",
-	"require-from-url" : "latest",
+    "require-from-url" : "latest",
     "require-json": "latest",
     "LiveScript": "latest",
     "coffeescript": "latest",
