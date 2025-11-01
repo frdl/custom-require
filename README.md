@@ -1,7 +1,7 @@
 # Custom require functions and resolvers
 ...todo: Documentation...
 
-The bot found security issues in this package. As it is deprected and was used for tests and browser-side, please do not wait for updates, just
+The bot found security issues in this package. As it is deprecated and was used for tests and browser-side, please do not wait for updates, just
 **use another package**!
 
 Summary
