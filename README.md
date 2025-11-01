@@ -2,7 +2,7 @@
 ...todo: Documentation...
 
 The bot found security issues in this package. As it is deprected and was used for tests and browser-side, please do not wait for updates, just
-**use another package***!
+**use another package**!
 
 Summary
 When Axios runs on Node.js and is given a URL with the data: scheme, it does not perform HTTP. Instead, its Node http adapter decodes the entire payload into memory (Buffer/Blob) and returns a synthetic 200 response.
